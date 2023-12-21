@@ -1,0 +1,15 @@
+export default {
+  icMasterCard: require('../assets/images/masterCard.png'),
+  icLeftArrow: require('../assets/images/leftArrow.png'),
+  icSortDown: require('../assets/images/sortDown.png'),
+  icMenu: require('../assets/images/menu.png'),
+  icCross: require('../assets/images/cross.png'),
+  icHome: require('../assets/images/home.png'),
+  icPoints: require('../assets/images/points.png'),
+  icTransaction: require('../assets/images/transaction.png'),
+  icManage: require('../assets/images/manage.png'),
+  icTransfer: require('../assets/images/transfer.png'),
+  icMail: require('../assets/images/mail.png'),
+  icTravel: require('../assets/images/travel.png'),
+  icRewards: require('../assets/images/rewards.png'),
+};

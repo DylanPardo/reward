@@ -1,0 +1,11 @@
+export {default as Login} from './Login/Login';
+export {default as Register} from './Register/Register';
+export {default as Home} from './Home/Home';
+export {default as ManageAccounts} from './ManageAccounts/ManageAccounts';
+export {default as ManageYourPoints} from './ManageYourPoints/ManageYourPoints';
+export {default as MyPoints} from './MyPoints/MyPoints';
+export {default as OnlineMail} from './OnlineMail/OnlineMail';
+export {default as OnlineTravel} from './OnlineTravel/OnlineTravel';
+export {default as PayWithRewards} from './PayWithRewards/PayWithRewards';
+export {default as TransactionEraser} from './TransactionEraser/TransactionEraser';
+export {default as TransferPoints} from './TransferPoints/TransferPoints';
